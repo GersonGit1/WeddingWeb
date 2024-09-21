@@ -29,6 +29,10 @@ li{
     color: #444;
     text-align: left;
 }
+.menu ul{
+    list-style: none;
+    padding-left: 0;
+}
 .logo{
     height: 86px;
 }
