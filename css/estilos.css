@@ -4,7 +4,7 @@
 .menu{
 	width:25%;	
 	background-color: #ffe07a;   
-    padding: 20px 10px;
+    padding: 20px 5px;
     flex-grow: 1;
     text-align: left;
 }
