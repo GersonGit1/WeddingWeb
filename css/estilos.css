@@ -2,11 +2,12 @@
     display: flex;
 }
 .menu{
-	width:25%;	
+	width:30%;	
 	background-color: #ffe07a;   
     padding: 20px 0;
     flex-grow: 1;
     text-align: left;
+    min-width: 25%;
 }
 
 .contenido{
@@ -31,7 +32,7 @@ li{
 }
 .menu ul{
     list-style: none;
-    padding-left: 0;
+    padding-left: 1px;
 }
 .logo{
     height: 86px;
