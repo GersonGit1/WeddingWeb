@@ -2,7 +2,7 @@
     display: flex;
 }
 .menu{
-	width:25%;	
+	width:20%;	
 	background-color: #ffe07a;   
     padding: 20px 0;
     flex-grow: 1;
