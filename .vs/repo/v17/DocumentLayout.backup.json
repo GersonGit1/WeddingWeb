@@ -34,15 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -54,8 +50,7 @@
               "RelativeToolTip": "css\\estilos.css",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-21T02:53:00.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T02:53:00.416Z"
             },
             {
               "$type": "Document",
@@ -65,7 +60,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\U\\DPW\\repo\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-21T02:26:26.405Z",
               "EditorCaption": ""
@@ -80,8 +75,7 @@
               "RelativeToolTip": "paginas\\QuienesSomos.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-21T02:24:25.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T02:24:25.654Z"
             },
             {
               "$type": "Document",
@@ -93,8 +87,7 @@
               "RelativeToolTip": "paginas\\QueOfrecemos.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-21T02:24:17.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T02:24:17.986Z"
             },
             {
               "$type": "Document",
@@ -106,8 +99,7 @@
               "RelativeToolTip": "paginas\\contacto.html",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-21T02:24:09.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T02:24:09.557Z"
             },
             {
               "$type": "Document",
@@ -119,8 +111,7 @@
               "RelativeToolTip": "paginas\\Atractores.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-21T02:22:15.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T02:22:15.159Z"
             }
           ]
         }

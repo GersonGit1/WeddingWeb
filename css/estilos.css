@@ -2,12 +2,12 @@
     display: flex;
 }
 .menu{
-	width:20%;	
+	width:25%;	
 	background-color: #ffe07a;   
     padding: 20px 0;
     flex-grow: 1;
     text-align: left;
-    min-width: 20%;
+    min-width: 25%;
 }
 
 .contenido{
