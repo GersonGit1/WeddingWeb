@@ -14,12 +14,18 @@
 	background-color:#ffe1b8;
 	padding: 20px;
 }
+    .contenido contacto {
+        flex-grow: 1;
+        background-color: #ffe1b8;
+        padding: 20px;
+        width: 75%;
+    }
 
-header{
-    height: 10vh;
-    display: flex;
-    background-color: #FFD1DC
-}
+    header {
+        height: 10vh;
+        display: flex;
+        background-color: #FFD1DC
+    }
 
 li{  
     padding: 20px 5px;
